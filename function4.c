@@ -8,7 +8,7 @@ int main ()
   float a = 5.9;
   float b = 10.0 ; 
 
-  printf("area is : %f", Rectangle(a,b) );
+  printf("area is :  %f", Rectangle(a,b) );
   return 0 ;
  }
 
